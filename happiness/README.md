@@ -19,7 +19,7 @@ The dataset under consideration presents a comprehensive overview of various wel
 
 4. **Freedom and Generosity:**
    - Freedom to make life choices averages at **63.40**, reinforcing its role in overall life satisfaction.
-   - Generosity shows a higher standard deviation, indicating a wide variance among countries — this could suggest social, cultural, or economic factors influencing charitable behavior.
+   - Generosity shows a higher standard deviation, indicating a wide variance among countries ï¿½ this could suggest social, cultural, or economic factors influencing charitable behavior.
 
 5. **Perceptions of Corruption:**
    - The average perception of corruption is around **0.74**, with 125 missing values. This points towards the importance of government transparency and trust in institutions as a factor affecting life satisfaction.
@@ -44,22 +44,22 @@ The dataset under consideration presents a comprehensive overview of various wel
 ### **Conclusion:**
 The data reflects varying life satisfaction levels influenced by economic, social, and emotional factors. Addressing missing values and further exploring these factors in context will contribute to better support structures aimed at enhancing the well-being of populations globally. Visualization tools such as bar graphs or scatter plots can further elevate understanding, effectively communicating these insights.
 
-![Freedom to make life choices_histogram.png](Freedom to make life choices_histogram.png)
+![Freedom to make life choices_histogram.png](./Freedom to make life choices_histogram.png)
 
-![Generosity_histogram.png](Generosity_histogram.png)
+![Generosity_histogram.png](./Generosity_histogram.png)
 
-![Healthy life expectancy at birth_histogram.png](Healthy life expectancy at birth_histogram.png)
+![Healthy life expectancy at birth_histogram.png](./Healthy life expectancy at birth_histogram.png)
 
-![Life Ladder_histogram.png](Life Ladder_histogram.png)
+![Life Ladder_histogram.png](./Life Ladder_histogram.png)
 
-![Log GDP per capita_histogram.png](Log GDP per capita_histogram.png)
+![Log GDP per capita_histogram.png](./Log GDP per capita_histogram.png)
 
-![Negative affect_histogram.png](Negative affect_histogram.png)
+![Negative affect_histogram.png](./Negative affect_histogram.png)
 
-![Perceptions of corruption_histogram.png](Perceptions of corruption_histogram.png)
+![Perceptions of corruption_histogram.png](./Perceptions of corruption_histogram.png)
 
-![Positive affect_histogram.png](Positive affect_histogram.png)
+![Positive affect_histogram.png](./Positive affect_histogram.png)
 
-![Social support_histogram.png](Social support_histogram.png)
+![Social support_histogram.png](./Social support_histogram.png)
 
-![year_histogram.png](year_histogram.png)
+![year_histogram.png](./year_histogram.png)
